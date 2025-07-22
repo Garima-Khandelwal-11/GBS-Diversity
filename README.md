@@ -1,129 +1,228 @@
-# Women in Tech Career Mentorship Platform
+# 👩‍💻 Women in Tech Career Mentorship Platform – MentHer
 
-## Overview
-This platform empowers women in the tech industry by providing personalized mentorship, career resources, and AI-driven guidance. Our mission is to support gender diversity in technology by creating meaningful connections between mentors and mentees while offering tailored learning resources for career advancement.
+## 🌟 Overview
 
-## Features
+**MentHer** is an AI-powered platform designed to connect women in tech with suitable mentors based on their skills, career goals, and interests. It provides personalized career resources, progress tracking, and secure communication – all with the mission of fostering **gender diversity in technology**.
+🛠 Built during the **Standard Chartered Diversity Hackathon 2025**.
 
-### User Experience
-- *Responsive Design*: Accessible on desktop and mobile devices
-- *Intuitive Navigation*: Easy access to all platform features
+---
 
-### Core Functionality
+## 🚩 Problem Statement
 
-#### Dashboard
-- Personalized overview of mentorship journey
-- Mentor-mentee match status with AI-generated match scores
-- Upcoming mentorship sessions
-- Recently accessed learning resources
-- User satisfaction ratings
+There’s a growing need for personalized mentorship among women in tech. MentHer addresses this by:
 
-#### Mentor Matching System
-- AI-powered mentor recommendations based on skills and career goals
-- Comprehensive mentor profiles with expertise, experience, and interests
-- Easy mentorship request process
-- Advanced search and filtering options
+* Connecting mentees with ideal mentors using AI.
+* Providing structured, personalized learning resources.
+* Offering a safe, inclusive, and empowering environment.
 
-#### User Profiles
-- Customizable profile information (name, photo, gender)
-- Skills and career goals tracking
-- Interest and learning preference management
-- Career development progress metrics
-- Mentorship journey timeline
+---
 
-#### Learning Resources
-- Curated collection of courses, articles, and webinars
-- AI-based recommendations tailored to individual needs
-- Category-based organization
-- Bookmark functionality for saved content
-- Difficulty level filtering
+## 🔑 Features
 
-#### Security & Privacy
-- Google authentication integration
-- Email and password login option
-- Two-factor authentication
-- Customizable privacy controls
-- Secure data storage
+### 🖥️ User Experience
 
-## Technical Stack
+* **Responsive Design** for all screen sizes.
+* **Intuitive Navigation** for smooth user flow.
 
-### Frontend
-- HTML5, CSS3, JavaScript
-- React.js for component-based UI
-- Responsive design framework
+### 📊 Dashboard
 
-### Backend
-- Node.js server
-- Express.js framework
-- MongoDB database
+* Personalized mentorship overview.
+* Real-time match score (scaled 1-5).
+* Upcoming session tracker.
+* Recently accessed resources.
+* Mentee satisfaction ratings.
 
-### AI/ML Integration
-- Mentor matching algorithm
-- Resource recommendation system
-- User satisfaction analysis
+### 👥 User Profiles
 
-### Authentication
-- OAuth 2.0 for Google authentication
-- JWT for session management
-- Secure password hashing
+* Custom profiles (mentor/mentee).
+* Predefined choices for:
 
-## Getting Started
+  * **Career Goals:** e.g., Data Scientist, AI Engineer, etc.
+  * **Skills:** Python, React, SQL, etc.
+  * **Interests:** AI, Web Dev, Cybersecurity, etc.
+* Progress timeline of mentorship.
 
-### Prerequisites
-- Node.js (v14.0+)
-- npm or yarn
-- MongoDB
+### 🤝 Mentor Matching System
 
-### Installation
-1. Clone the repository
-   
-   git clone https://github.com/Garima-Khandelwal-1/GBS-Diversity.git
-   
+* **AI-Powered Matching** using Cosine Similarity.
+* Weighted profile encoding (Career Goals > Skills > Interests).
+* Mentor profiles with expertise & background.
+* One-click mentorship requests + email integration.
 
-2. Install dependencies
-   
-   cd client
-   npm install
-   
+### 📚 Learning Resources
 
-3. Set up environment variables
-   - Create a .env file based on .env.example
-   - Add your MongoDB connection string
-   - Configure Google OAuth credentials
+* Curated articles, courses & webinars.
+* AI-based personalized recommendations.
+* Bookmarking & difficulty-level filtering.
 
-4. Start the development server
-   
-   npm run dev
-   
+### 💬 Chatbot Integration
 
+* GenAI-powered chatbot for smart recommendations and user assistance.
 
-## Usage
+### 🔐 Security & Privacy
+
+* Google & Email authentication (OAuth 2.0 + JWT).
+* 2FA support.
+* Secure password hashing.
+* Role-based data visibility.
+* SSL/TLS and data encryption.
+
+---
+
+## ⚙️ Technical Stack
+
+### 🔸 Frontend
+
+* HTML5, CSS3, JavaScript
+* **React.js**, **Tailwind CSS**
+
+### 🔹 Backend
+
+* **Node.js**, **Express.js**
+* **MongoDB** (NoSQL database)
+
+### 🧠 AI/ML Integration
+
+* **Python**, **Scikit-learn** for Cosine Similarity
+* NLP libraries for parsing text-based profile data
+
+### 🔐 Authentication & Security
+
+* **OAuth 2.0**, **JWT**
+* Secure password hashing
+* SSL/TLS encryption
+
+---
+
+## 🧮 AI Matching Algorithm (Cosine Similarity)
+
+### 📌 Matching Logic:
+
+1. **Feature Vector** created from:
+
+   * Career Goal (5 pts)
+   * Skills (3 pts)
+   * Interests (2 pts)
+
+2. **Cosine Similarity**:
+
+   ```
+   Cosine Similarity = (A · B) / (||A|| * ||B||)
+   ```
+
+   * Scores are scaled from **0–1** to **1–5** for display.
+   * Top matches are sorted & recommended to the mentee.
+
+### 📌 Why Cosine Similarity?
+
+* Handles high-dimensional, categorical, and weighted data.
+* Scalable and lightweight for real-time matching.
+* No need for pre-training or historical data.
+
+### ❌ Alternatives Considered:
+
+| Method              | Why Not Used?                                |
+| ------------------- | -------------------------------------------- |
+| Jaccard Similarity  | Doesn't support weights                      |
+| Pearson Correlation | Suited for numeric-only data                 |
+| ML Models           | Require training data or heavy preprocessing |
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+* Node.js (v14+)
+* npm / yarn
+* MongoDB
+
+### 🛠 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/<your-username>/GBS-Diversity.git
+
+# Frontend Setup
+cd GSB-Diversity/client
+npm install   # or yarn install
+
+# Backend Setup
+cd ../server
+npm install
+```
+
+### ⚙️ Environment Variables
+
+Create a `.env` file in the backend root. Include:
+
+```
+MONGO_URI=your_mongodb_uri
+GOOGLE_CLIENT_ID=your_google_client_id
+GOOGLE_CLIENT_SECRET=your_google_client_secret
+JWT_SECRET=your_jwt_secret
+```
+
+### ▶️ Run the App
+
+```bash
+# Backend
+cd server
+npm start
+
+# Frontend
+cd ../client
+npm run dev
+```
+
+App runs at `http://localhost:3000`
+
+---
+
+## 👩‍🎓 Usage
 
 ### For Mentees
-1. Create an account and complete your profile
-2. Browse mentors or view AI-recommended matches
-3. Send mentorship requests
-4. Schedule and attend mentorship sessions
-5. Access personalized learning resources
+
+* Create profile with predefined goals, skills, interests.
+* View AI-suggested mentors.
+* Send mentorship requests.
+* Access personalized resources.
+* Track your journey.
 
 ### For Mentors
-1. Register as a mentor and detail your expertise
-2. Review and accept mentee requests
-3. Schedule mentorship sessions
-4. Recommend learning resources to mentees
-5. Provide feedback on mentee progress
 
-## Contributing
-We welcome contributions to improve the platform. Please follow these steps:
-1. Fork the repository
-2. Create a feature branch
+* Sign up and set up a detailed profile.
+* Review and accept mentee requests.
+* Suggest resources and track mentee progress.
+
+---
+
+## 🤝 Contributing
+
+We love contributions!
+
+1. Fork the repo
+2. Create a new branch
+   `git checkout -b feature/your-feature-name`
 3. Commit your changes
-4. Push to the branch
-5. Open a pull request
+   `git commit -m "feat: Add new feature"`
+4. Push your branch
+   `git push origin feature/your-feature-name`
+5. Open a Pull Request
 
-## Future Enhancements
-- Video conferencing integration for mentorship sessions
-- Advanced analytics dashboard for career progression
-- Community forum for peer support
-- Industry-specific resource collections
-- Mentor verification and rating system
+---
+
+## 🌱 Future Enhancements
+
+* 🔗 In-app video conferencing
+* 📈 Advanced career analytics
+* 🌐 Community forum for peer support
+* 🧑‍💼 Mentor verification & rating system
+* 🎨 UI theme customization
+* 🔐 Role verification using company email OTP
+* ⚙️ Dedicated settings & privacy controls
+* 🧾 “About Us” informational page
+
+---
+
+
