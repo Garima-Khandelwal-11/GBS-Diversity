@@ -1,0 +1,57 @@
+.rating-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 2rem;
+  background: linear-gradient(135deg, #84fab0, #8fd3f4);
+  animation: slideRight 1.5s ease-in-out;
+}
+
+.rating-section h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.ratings-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.rating-text {
+  background-color: white; /* Change background color to white */
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+  width: 45%; /* Set width to fit two cards in a row */
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.rating-text:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+.rating-text h3 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: black; /* Change text color to black */
+}
+
+.rating-text p {
+  margin: 0.5rem 0;
+  color: black; /* Change text color to black */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

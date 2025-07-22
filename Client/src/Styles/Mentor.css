@@ -1,0 +1,282 @@
+.mentor-page {
+  display: flex;
+}
+
+.sidebar {
+  width: 200px;
+  top: 100px;
+  background-color: #f4f4f4;
+  padding: 1rem;
+  height: 100vh;
+  position: fixed;
+}
+
+.sidebar button {
+  display: block;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  color: #333;
+  background: none;
+  border: none;
+  text-align: left;
+  margin-bottom: 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.sidebar button:hover,
+.sidebar button:focus {
+  background-color: #007bff;
+  color: white;
+}
+
+.mentor-content {
+  margin-left: 220px;
+  padding: 1rem;
+  flex: 1;
+}
+
+.all-mentor {
+  width: 100%;
+}
+
+.search-filter-section {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  gap: 1rem;
+}
+
+.search-bar,
+.filter-section {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  background: white;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-icon,
+.filter-icon {
+  color: #666;
+  margin-right: 1rem;
+}
+
+.search-bar input,
+.filter-section select {
+  border: none;
+  padding: 0.5rem;
+  font-size: 1rem;
+  flex: 1;
+}
+
+.search-bar input:focus,
+.filter-section select:focus {
+  outline: none;
+}
+
+.mentor-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.mentor-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  text-align: center;
+}
+
+.mentor-card:hover {
+  transform: translateY(-5px);
+}
+
+.mentor-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.request-mentorship-btn {
+
+  background: #716ACC;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.request-mentorship-btn:hover {
+  background: #0056b3;
+}
+
+.resource-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.resource-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  text-align: center;
+}
+
+.resource-card:hover {
+  transform: translateY(-5px);
+}
+
+.more-btn {
+  background: #716ACC;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  margin-top: 1rem;
+}
+
+.more-btn:hover {
+  background: #0056b3;
+}
+
+.skills-container {
+  margin: 0.5rem 0;
+}
+
+.skills-container p {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.more-skills-btn {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  padding: 0;
+  font-size: 0.9rem;
+  text-decoration: underline;
+}
+
+.more-skills-btn:hover {
+  color: #f3f3f3;
+}
+
+.interests-container {
+  margin: 0.5rem 0;
+}
+
+.interests-container p {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.more-interests-btn {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  padding: 0;
+  font-size: 0.9rem;
+  text-decoration: underline;
+}
+
+.more-interests-btn:hover {
+  color: #0056b3;
+}
+
+.skills-container {
+  margin: 0.5rem 0;
+}
+
+.skills-container p {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.more-skills-btn {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  padding: 0;
+  font-size: 0.9rem;
+  text-decoration: underline;
+}
+
+.more-skills-btn:hover {
+  color: #f3f3f3;
+}
+
+.interests-container {
+  margin: 0.5rem 0;
+}
+
+.interests-container p {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.more-interests-btn {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  padding: 0;
+  font-size: 0.9rem;
+  text-decoration: underline;
+}
+
+.more-interests-btn:hover {
+  color: #0056b3;
+}
+
+li{
+  color: grey;
+}
+
+strong{
+  color:#716ACC;
+}
+
+#tag{
+  color:#716ACC;
+}
+h3{
+  color: #716ACC;
+}
+#sc{
+  color: #716ACC;
+}
+.mentor-legend {
+  width: 150px;
+  height: auto;
+  float: right;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}

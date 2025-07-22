@@ -1,0 +1,48 @@
+.auth-container {
+  max-width: 700px; /* Increase width */
+  margin: 100px auto;
+  padding: 3rem; /* Increase padding */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #f9f9f9; /* Light background color */
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 30px; /* Increase margin */
+  color: #333;
+  font-size: 2rem; /* Increase font size */
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 15px; /* Increase padding */
+  margin: 15px 0; /* Increase margin */
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem; /* Increase font size */
+}
+
+textarea.description {
+  height: 100px; /* Set a fixed height for the description textarea */
+  resize: vertical; /* Allow vertical resizing */
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(90deg, #b811cb, #2575fc);
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: linear-gradient(90deg, #8e5686, #e64199);
+}
+.section-title{
+  color: black
+}

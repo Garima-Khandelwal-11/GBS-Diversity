@@ -1,0 +1,6261 @@
+[
+    {
+        "name": "Google Cybersecurity",
+        "organization": "Google",
+        "skills": [
+            "Cloud Computing",
+            "SQL"
+        ],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Google Data Analytics",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Google Project Management:",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM Data Science",
+        "organization": "IBM",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "SQL",
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Google Digital Marketing & E-commerce",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "IBM Data Analyst",
+        "organization": "IBM",
+        "skills": [
+            "SQL",
+            "Machine Learning",
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google IT Support",
+        "organization": "Google",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Machine Learning",
+        "organization": "Multiple educators",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google UX Design",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM DevOps and Software Engineering",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM Applied AI",
+        "organization": "IBM",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Cloud Computing"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "IBM Full Stack Software Developer",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes",
+            "SQL"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Introduction to Data Science",
+        "organization": "IBM",
+        "skills": [
+            "SQL",
+            "Machine Learning",
+            "Cloud Computing",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Data Science Fundamentals with Python and SQL",
+        "organization": "IBM",
+        "skills": [
+            "SQL",
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM Data Engineering",
+        "organization": "IBM",
+        "skills": [
+            "SQL",
+            "Cloud Computing",
+            "Machine Learning",
+            "Kubernetes"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Key Technologies for Business",
+        "organization": "IBM",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning",
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "IBM & Darden Digital Strategy",
+        "organization": "University of Virginia Darden School Foundation",
+        "skills": [
+            "Cloud Computing",
+            "Deep Learning",
+            "Machine Learning",
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Deep Learning",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Engineering Foundations",
+        "organization": "IBM",
+        "skills": [
+            "SQL",
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Applied Data Science",
+        "organization": "IBM",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM Back-End Development",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes",
+            "SQL"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "IBM AI Foundations for Business",
+        "organization": "IBM",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI",
+            "Big Data"
+        ]
+    },
+    {
+        "name": "IBM Data Analytics with Excel and R",
+        "organization": "IBM",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Analysis and Visualization Foundations",
+        "organization": "IBM",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Applied Software Engineering Fundamentals",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "Software Engineer",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Prompt Engineering",
+        "organization": "Vanderbilt University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "AI Foundations for Everyone",
+        "organization": "IBM",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning",
+            "Cloud Computing"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Generative AI with Large Language Models",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Cloud Application Development Foundations",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "DevOps, Cloud, and Agile Foundations",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Advanced Data Analytics",
+        "organization": "Google",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM and ISC2 Cybersecurity Specialist",
+        "organization": "Multiple educators",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "IBM IT Support",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Business Intelligence (BI) Analyst",
+        "organization": "IBM",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Meta Front-End Developer",
+        "organization": "Meta",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Generative AI Fundamentals",
+        "organization": "IBM",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Information Technology (IT) and Cloud Fundamentals",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Microsoft Power BI Data Analyst",
+        "organization": "Microsoft",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Generative AI for Everyone",
+        "organization": "DeepLearning.AI",
+        "skills": [],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "IBM AI Engineering",
+        "organization": "IBM",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI",
+            "Big Data"
+        ]
+    },
+    {
+        "name": "IBM IT Project Manager",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM Data Warehouse Engineer",
+        "organization": "IBM",
+        "skills": [
+            "SQL",
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Generative AI for Software Developers",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "Software Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Generative AI for Data Scientists",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Foundations of Cybersecurity",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Foundations of Project Management",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Supervised Machine Learning: Regression and Classification",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "BI Foundations with SQL, ETL and Data Warehousing",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing",
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Foundations: Data, Data, Everywhere",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Mathematics for Machine Learning and Data Science",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM Full-Stack JavaScript Developer",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Business Foundations",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google IT Automation with Python",
+        "organization": "Google",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "AI For Everyone",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "IBM IT Scrum Master",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python for Everybody",
+        "organization": "University of Michigan",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "IBM Project Manager",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM Applied DevOps Engineering",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "AI in Healthcare",
+        "organization": "Stanford University",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "IBM Front-End Developer",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "IBM Cybersecurity Analyst",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing",
+            "SQL"
+        ],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "IBM Back-end JavaScript Developer",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Meta Social Media Marketing",
+        "organization": "Meta",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Meta React Native",
+        "organization": "Meta",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Finance & Quantitative Modeling for Analysts",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Technical Support Fundamentals",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Natural Language Processing",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "DeepLearning.AI TensorFlow Developer",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Introduction to Finance and Accounting",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IT Fundamentals for Cybersecurity",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing",
+            "SQL"
+        ],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Foundations of Digital Marketing and E-commerce",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Machine Learning Engineering for Production (MLOps)",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Cloud Computing",
+            "Deep Learning",
+            "Kubernetes"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Meta Back-End Developer",
+        "organization": "Meta",
+        "skills": [
+            "SQL",
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Big Data",
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Intuit Academy Bookkeeping",
+        "organization": "Intuit",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Meta iOS Developer",
+        "organization": "Meta",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Meta Android Developer",
+        "organization": "Meta",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Prompt Engineering for ChatGPT",
+        "organization": "Vanderbilt University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Play It Safe: Manage Security Risks",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "AI For Business",
+        "organization": "University of Pennsylvania",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI",
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Business and Financial Modeling",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Foundations of User Experience (UX) Design",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Business Intelligence",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Meta Database Engineer",
+        "organization": "Meta",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data",
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Project Initiation: Starting a Successful Project",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Ask Questions to Make Data-Driven Decisions",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Microsoft 365 Fundamentals",
+        "organization": "Microsoft",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Microsoft Cybersecurity Analyst",
+        "organization": "Microsoft",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Advanced Learning Algorithms",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Become a CBRS Certified Professional Installer by Google",
+        "organization": "Google - Spectrum Sharing",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Financial Markets",
+        "organization": "Yale University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "HRCI Human Resource Associate",
+        "organization": "HRCI",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Excel Skills for Business",
+        "organization": "Macquarie University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Bits and Bytes of Computer Networking",
+        "organization": "Google",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "IBM Machine Learning",
+        "organization": "IBM",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Indigenous Canada",
+        "organization": "University of Alberta",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Connect and Protect: Networks and Network Security",
+        "organization": "Google",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Preparing for Google Cloud Certification: Cloud Architect",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Neural Networks and Deep Learning",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Business Analytics",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Preparing for Google Cloud Certification: Cloud Engineer",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM Introduction to Machine Learning",
+        "organization": "IBM",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Modern Project Management",
+        "organization": "SkillUp EdTech",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Preparing for Google Cloud Certification: Machine Learning Engineer",
+        "organization": "Google Cloud",
+        "skills": [
+            "Machine Learning",
+            "Cloud Computing",
+            "Deep Learning",
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Architecting with Google Compute Engine",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "SAP Technology Consultant",
+        "organization": "SAP",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "JavaScript Programming with React, Node & MongoDB",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Digital Product Management",
+        "organization": "University of Virginia",
+        "skills": [],
+        "career_goal": "Product Manager",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Graphic Design",
+        "organization": "California Institute of the Arts",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python for Data Science, AI & Development",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "AWS Cloud Solutions Architect",
+        "organization": "Amazon Web Services",
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Preparing for Google Cloud Certification: Cloud Security Engineer",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Cloud Security"
+        ]
+    },
+    {
+        "name": "AWS Cloud Technology Consultant",
+        "organization": "Amazon Web Services",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Preparing for Google Cloud Certification: Cloud Data Engineer",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning",
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Data Analysis and Presentation Skills: the PwC Approach",
+        "organization": "PwC",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "AWS Fundamentals",
+        "organization": "Amazon Web Services",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Learn SQL Basics for Data Science",
+        "organization": "University of California, Davis",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Leadership Skills",
+        "organization": "IIMA - IIM Ahmedabad",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Generative AI",
+        "organization": "Google Cloud",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Tools of the Trade: Linux and SQL",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Engineering, Big Data, and Machine Learning on GCP",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning",
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Construction Management",
+        "organization": "Columbia University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cybers\u00e9curit\u00e9 Google",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Ciberseguridad de Google",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Preparing for Google Cloud Certification: Cloud Developer",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Project Planning: Putting It All Together",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Search Engine Optimization (SEO)",
+        "organization": "University of California, Davis",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Data Structures and Algorithms",
+        "organization": "University of California San Diego",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Preparing for Google Cloud Certification: Cloud Network Engineer",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Attract and Engage Customers with Digital Marketing",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Introduction to Psychology",
+        "organization": "Yale University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Networking in Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "Linear Algebra for Machine Learning and Data Science",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Developing Applications with Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Security in Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "ChatGPT Advanced Data Analysis",
+        "organization": "Vanderbilt University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Digital Marketing",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "What is Data Science?",
+        "organization": "IBM",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Gesti\u00f3n de Proyectos de Google",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Business Strategy",
+        "organization": "University of Virginia",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "HTML, CSS, and Javascript for Web Developers",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Applied Data Science with Python",
+        "organization": "University of Michigan",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google \u30c7\u30fc\u30bf\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Foundations of Positive Psychology",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Data Analytics",
+        "organization": "IBM",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "DevOps on AWS",
+        "organization": "Amazon Web Services",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Mathematics for Machine Learning",
+        "organization": "Imperial College London",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Certified in Cybersecurity",
+        "organization": "ISC2",
+        "skills": [],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Start the UX Design Process: Empathize, Define, and Ideate",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Connected Leadership",
+        "organization": "Yale University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Supply Chain Management",
+        "organization": "Rutgers the State University of New Jersey",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "TESOL Certificate, Part 1: Teach English Now!",
+        "organization": "Arizona State University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Reinforcement Learning",
+        "organization": "University of Alberta",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Tableau Business Intelligence Analyst",
+        "organization": "Tableau Learning Partner",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Process Data from Dirty to Clean",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Generative Adversarial Networks (GANs)",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Improve Your English Communication Skills",
+        "organization": "Georgia Institute of Technology",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Agile Project Management",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Security Analyst Fundamentals",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Science",
+        "organization": "Johns Hopkins University",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data",
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Google Marketing Digital e E-Commerce",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Meta Marketing Analytics",
+        "organization": "Meta",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "NoSQL, Big Data, and Spark Foundations",
+        "organization": "IBM",
+        "skills": [
+            "SQL",
+            "Cloud Computing",
+            "Machine Learning",
+            "Kubernetes"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Accelerated Computer Science Fundamentals",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Regulatory Compliance",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "AI Product Management",
+        "organization": "Duke University",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Introduction to Programming with Python and Java",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Mergers and Acquisitions",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Operating Systems and You: Becoming a Power User",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Science: Foundations using R",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Achieving Personal and Professional Success",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Artificial Intelligence in Marketing",
+        "organization": "University of Virginia",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Business Analytics with Excel: Elementary to Advanced",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Leading People and Teams",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "AI for Good",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Project Execution: Running the Project",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "UCI Project Management",
+        "organization": "University of California, Irvine",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "(ISC)\u00b2 Systems Security Certified Practitioner (SSCP)",
+        "organization": "ISC2",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Crash Course on Python",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Programming for Everybody (Getting Started with Python)",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Entrepreneurship",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "People and Soft Skills for Professional and Personal Success",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Salesforce Sales Operations",
+        "organization": "Salesforce",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Influencing: Storytelling, Change Management and Governance",
+        "organization": "Macquarie University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Generative AI: Introduction and Applications",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Assets, Threats, and Vulnerabilities",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Genomic Data Science",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "The Business of Health Care",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Dise\u00f1o de Experiencia del Usuario (UX) de Google",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Organizational Analysis",
+        "organization": "Stanford University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Six Sigma Yellow Belt",
+        "organization": "University System of Georgia",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Analyze Data to Answer Questions",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Strategic Leadership and Management",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Machine Learning on Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Machine Learning",
+            "Cloud Computing",
+            "Deep Learning",
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cybersecurity Fundamentals",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Human Resource Management: HR for People Managers",
+        "organization": "University of Minnesota",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "U.S. Federal Taxation",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Algorithms for Battery Management Systems",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Project Management",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Fundamentals of Project Planning and Management",
+        "organization": "University of Virginia",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Medical Billing and Coding Fundamentals",
+        "organization": "MedCerts",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Analysis with R Programming",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Product Ideation, Design, and Management",
+        "organization": "University of Maryland, College Park",
+        "skills": [],
+        "career_goal": "Product Manager",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Global Procurement and Sourcing",
+        "organization": "Rutgers the State University of New Jersey",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Sound the Alarm: Detection and Response",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Excel Basics for Data Analysis",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Calculus",
+        "organization": "The University of Sydney",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "MATLAB Programming for Engineers and Scientists",
+        "organization": "Vanderbilt University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Medical Terminology",
+        "organization": "Rice University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "System Administration and IT Infrastructure Services",
+        "organization": "Google",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Capstone: Applying Project Management in the Real World",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Private Equity and Venture Capital",
+        "organization": "Universit\u00e0 Bocconi",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Management Consulting",
+        "organization": "Emory University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Share Data Through the Art of Visualization",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Financial Engineering and Risk Management",
+        "organization": "Columbia University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Project Management",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Management of Fashion and Luxury Companies",
+        "organization": "Universit\u00e0 Bocconi",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Automate Cybersecurity Tasks with Python",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
+        "organization": "Microsoft",
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Build Wireframes and Low-Fidelity Prototypes",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Databases and SQL for Data Science with Python",
+        "organization": "IBM",
+        "skills": [
+            "SQL",
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Business of Music Production",
+        "organization": "Berklee",
+        "skills": [
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Practical Data Science on the AWS Cloud",
+        "organization": "Multiple educators",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Java Programming and Software Engineering Fundamentals",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "Software Engineer",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Google Professional Workspace Administrator",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Scrum Master Certification",
+        "organization": "LearnQuest",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Strategy of Content Marketing",
+        "organization": "University of California, Davis",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Front-End Development",
+        "organization": "Meta",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Six Sigma Black Belt",
+        "organization": "University System of Georgia",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Cybersecurity Tools & Cyber Attacks",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Financial Management",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Food Sustainability, Mindful Eating, and Healthy Cooking",
+        "organization": "Stanford University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Calculus for Machine Learning and Data Science",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Music Production",
+        "organization": "Berklee",
+        "skills": [],
+        "career_goal": "Product Manager",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python Project for Data Science",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Game Design: Art and Concepts",
+        "organization": "California Institute of the Arts",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Investment Management",
+        "organization": "University of Geneva",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Bayesian Statistics",
+        "organization": "University of California, Santa Cruz",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Financial Analysis - Skills for Success",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Salesforce Sales Development Representative",
+        "organization": "Salesforce",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Marketing",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Human Resources Analytics",
+        "organization": "University of California, Irvine",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Photography Basics and Beyond: From Smartphone to DSLR",
+        "organization": "Michigan State University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Singer Songwriter",
+        "organization": "Berklee",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "CompTIA a+_ cyber",
+        "organization": "CompTIA",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Contabilidad para no contadores",
+        "organization": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Coding for Everyone: C and C++",
+        "organization": "University of California, Santa Cruz",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Business Statistics and Analysis",
+        "organization": "Rice University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Object Oriented Programming in Java",
+        "organization": "Multiple educators",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Six Sigma Green Belt",
+        "organization": "University System of Georgia",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Microsoft Azure Data Fundamentals DP-900 Exam Prep",
+        "organization": "Microsoft",
+        "skills": [
+            "Cloud Computing",
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Programming in C++: A Hands-on Introduction",
+        "organization": "Codio",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Microsoft Azure Data Scientist Associate (DP-100)",
+        "organization": "Microsoft",
+        "skills": [
+            "Machine Learning",
+            "Cloud Computing",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Google Project Management (PT)",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python Data Structures",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Fundamentals of Finance",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Statistical Analysis with R for Public Health",
+        "organization": "Imperial College London",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Applied Machine Learning in Python",
+        "organization": "University of Michigan",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Real-World Product Management",
+        "organization": "Advancing Women in Tech",
+        "skills": [],
+        "career_goal": "Product Manager",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "ITIL 4 Exam Preparation",
+        "organization": "LearnQuest",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Data Engineering",
+        "organization": "IBM",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Google Project Management (DE)",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Finance for Technical Managers",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Investment Management with Python and Machine Learning",
+        "organization": "EDHEC Business School",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Cybersecurity Attack and Defense Fundamentals",
+        "organization": "EC-Council",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "AI & Law",
+        "organization": "Lund University",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)",
+        "organization": "Hebrew University of Jerusalem",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Branding: The Creative Journey",
+        "organization": "IE Business School",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Manager's Toolkit: A Practical Guide to Managing People at Work",
+        "organization": "University of London",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Talent Acquisition",
+        "organization": "HRCI",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Convolutional Neural Networks in TensorFlow",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Reducing Gun Violence in America: Evidence for Change",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Build Dynamic User Interfaces (UI) for Websites",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Discrete Mathematics for Computer Science",
+        "organization": "University of California San Diego",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python Programming Fundamentals",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Epidemiology in Public Health Practice",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Foundations of Data Structures and Algorithms",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Design a User Experience for Social Good & Prepare for Jobs",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Learn to Program: The Fundamentals",
+        "organization": "University of Toronto",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep",
+        "organization": "Autodesk",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Site Reliability Engineering: Measuring and Managing Reliability",
+        "organization": "Google Cloud",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Mining",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Excel/VBA for Creative Problem Solving",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Excel Skills for Data Analytics and Visualization",
+        "organization": "Macquarie University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Modern Robotics:  Mechanics, Planning, and Control",
+        "organization": "Northwestern University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Visualization with Python",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Trading Strategies in Emerging Markets",
+        "organization": "Indian School of Business",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Deep Neural Networks with PyTorch",
+        "organization": "IBM",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Learn English: Intermediate Grammar",
+        "organization": "University of California, Irvine",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Computer Science and Programming",
+        "organization": "University of London",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Leading Diverse Teams & Organizations",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Cyber Security",
+        "organization": "New York University",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Investment and Portfolio Management",
+        "organization": "Rice University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Pronunciation of American English",
+        "organization": "University of California, Irvine",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Natural Language Processing with Attention Models",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Statistics with Python",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "From Data to Insights with Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "SQL",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "GPU Programming",
+        "organization": "Johns Hopkins University",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Fundamentals of Machine Learning for Healthcare",
+        "organization": "Stanford University",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "SAP Professional Fundamentals",
+        "organization": "SAP",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Computers and Operating Systems and Security",
+        "organization": "Microsoft",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Hands-on Introduction to Linux Commands and Shell Scripting",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "PwC GST Taxation Executive",
+        "organization": "PwC India",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "C Programming with Linux",
+        "organization": "Dartmouth College",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Software Development Lifecycle",
+        "organization": "University of Minnesota",
+        "skills": [],
+        "career_goal": "Software Engineer",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google UX Design (DE)",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Vital Signs: Understanding What the Body Is Telling Us",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Auditing I: Conceptual Foundations of Auditing",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Write Professional Emails in English",
+        "organization": "Georgia Institute of Technology",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Fundamentals of Reinforcement Learning",
+        "organization": "University of Alberta",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Managing Cybersecurity",
+        "organization": "University System of Georgia",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "TensorFlow: Data and Deployment",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Learning Linux for LFCA Certification",
+        "organization": "LearnQuest",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Understanding Research Methods",
+        "organization": "University of London",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Teach English Now! Foundational Principles",
+        "organization": "Arizona State University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Learn English: Advanced Grammar and Punctuation",
+        "organization": "University of California, Irvine",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Social Media Marketing",
+        "organization": "Northwestern University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introductory C Programming",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Sustainable Development Goals \u2013 A global, transdisciplinary vision for the future",
+        "organization": "University of Copenhagen",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Inclusive Leadership: The Power of Workplace Diversity",
+        "organization": "University of Colorado System",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Supply Chain Logistics",
+        "organization": "Rutgers the State University of New Jersey",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Systems Biology and Biotechnology",
+        "organization": "Icahn School of Medicine at Mount Sinai",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Back-End Development",
+        "organization": "Meta",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Fundamentos del marketing digital y comercio electr\u00f3nico",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Sales and CRM Overview",
+        "organization": "Salesforce",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Gender Analytics: Gender Equity through Inclusive Design",
+        "organization": "University of Toronto",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IA para todos",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Data Analytics (DE)",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Uncommon Sense Teaching",
+        "organization": "Deep Teaching Solutions",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Operations Management",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Professionalism in Allied Health",
+        "organization": "MedCerts",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Industrial IoT Markets and Security",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "IoT"
+        ]
+    },
+    {
+        "name": "Salesforce Fundamentals",
+        "organization": "University of California, Irvine",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Customer Relationship Management",
+        "organization": "Starweaver",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Devenir entrepreneur du changement",
+        "organization": "HEC Paris",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Sustainable Cities",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "\u062a\u0635\u0645\u064a\u0645 \u062a\u062c\u0631\u0628\u0629 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645 \u0645\u0646 Google",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Managerial Economics and Business Analysis",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Hardware and Operating Systems",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python, Bash and SQL Essentials for Data Engineering",
+        "organization": "Duke University",
+        "skills": [
+            "SQL",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Marketing en redes sociales de Meta",
+        "organization": "Meta",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Survey Data Collection and Analytics",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Interaction Design",
+        "organization": "University of California San Diego",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Teaching with Art: Using Inquiry, Activities, and Themes",
+        "organization": "The Museum of Modern Art",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "1. \u57fa\u790e\u77e5\u8b58\uff1a\u30c7\u30fc\u30bf\u306f\u3042\u3089\u3086\u308b\u3068\u3053\u308d\u306b\u3042\u308b",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Arts and Heritage Management",
+        "organization": "Universit\u00e0 Bocconi",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Foundations of Data Science",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Science Math Skills",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "SQL f\u00fcr Data Science",
+        "organization": "University of California, Davis",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Power of Statistics",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Science Foundations: Statistical Inference",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Foundations of Data Science: K-Means Clustering in Python",
+        "organization": "University of London",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Science Fundamentals",
+        "organization": "University of California, Irvine",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Applied Data Science with R",
+        "organization": "IBM",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Process Mining: Data science in Action",
+        "organization": "Eindhoven University of Technology",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Statistics for Data Science with Python",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Expressway to Data Science: Essential Math",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Science Coding Challenge: Loan Default Prediction",
+        "organization": "Coursera Project Network",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Code Free Data Science",
+        "organization": "University of California San Diego",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Python for Data Science",
+        "organization": "Fractal Analytics",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Science Methods for Quality Improvement",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Path to Insights: Data Models and Pipelines",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python for Data Analysis: Pandas & NumPy",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Tidyverse Skills for Data Science in R",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Statistics For Data Science",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Analytics for Lean Six Sigma",
+        "organization": "University of Amsterdam",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data-driven Decision Making",
+        "organization": "PwC",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Introduction to Machine Learning",
+        "organization": "Duke University",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Applied Data Science for Data Analysts",
+        "organization": "Databricks",
+        "skills": [
+            "Machine Learning",
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Database systems",
+        "organization": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Supply Chain Analytics",
+        "organization": "Rutgers the State University of New Jersey",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "An\u00e1lisis de Datos de Google",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Bioinformatics",
+        "organization": "University of California San Diego",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Information Visualization",
+        "organization": "New York University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Data Literacy",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Exploratory Data Analysis With Python and Pandas",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Methods and Statistics in Social Sciences",
+        "organization": "University of Amsterdam",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Research Data Management and Sharing",
+        "organization": "The University of North Carolina at Chapel Hill",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Decisions, Decisions: Dashboards and Reports",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Linear Algebra for Data Science Using Python",
+        "organization": "Howard University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Get Started with Python",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Foundations of Business Intelligence",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Analysis Using Pyspark",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Julia for Beginners in Data Science",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python Data Products for Predictive Analytics",
+        "organization": "University of California San Diego",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Materials Data Sciences and Informatics",
+        "organization": "Georgia Institute of Technology",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Visualization & Dashboarding with R",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Neuroscience and Neuroimaging",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "SQL: A Practical Introduction for Querying Databases",
+        "organization": "IBM",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0646 Google",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "GIS, Mapping, and Spatial Analysis",
+        "organization": "University of Toronto",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "SAS Visual Business Analytics",
+        "organization": "SAS",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python for Genomic Data Science",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Estad\u00edstica y probabilidad",
+        "organization": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Clinical Data Science",
+        "organization": "University of Colorado System",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python 3 Programming",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Analysis Using Python",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Nature of Data and Relational Database Design",
+        "organization": "University of California, Irvine",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Virtual Reality",
+        "organization": "University of London",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "R Programming",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Understanding Medical Research: Your Facebook Friend is Wrong",
+        "organization": "Yale University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Essential Causal Inference Techniques for Data Science",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Computational Neuroscience",
+        "organization": "University of Washington",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Arts and Science of Relationships: Understanding Human Needs",
+        "organization": "University of Toronto",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Analytics for Decision Making",
+        "organization": "University of Minnesota",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Narrative Economics",
+        "organization": "Yale University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Julia Scientific Programming",
+        "organization": "University of Cape Town",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Artificial Intelligence (AI)",
+        "organization": "IBM",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI",
+            "Big Data"
+        ]
+    },
+    {
+        "name": "NLP: Twitter Sentiment Analysis",
+        "organization": "Coursera Project Network",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Ciclo completo del desarrollo de un proyecto de Data Science",
+        "organization": "Coursera Project Network",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Statistical Inference for Estimation in Data Science",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Sequences, Time Series and Prediction",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Relational Database and SQL",
+        "organization": "Coursera Project Network",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Processing Using Python",
+        "organization": "Nanjing University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "MLOps | Machine Learning Operations",
+        "organization": "Duke University",
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Perform data science with Azure Databricks",
+        "organization": "Microsoft",
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Data Analysis with SQL: Inform a Business Decision",
+        "organization": "Coursera Project Network",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python Packages for Data Science",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Econometrics: Methods and Applications",
+        "organization": "Erasmus University Rotterdam",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Understanding and Visualizing Data with Python",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Visualization with Advanced Excel",
+        "organization": "PwC",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Statistical Inference and Hypothesis Testing in Data Science Applications",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "An Intuitive Introduction to Probability",
+        "organization": "University of Zurich",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Collection and Processing with Python",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Prepare Data for Exploration",
+        "organization": "Google",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Microsoft Excel",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python Project for Data Engineering",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Practical Data Science with MATLAB",
+        "organization": "MathWorks",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM Data Analyst Capstone Project",
+        "organization": "IBM",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Spark, Hadoop, and Snowflake for Data Engineering",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Cloud Computing",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Leverage Data Science for a More Agile Supply Chain",
+        "organization": "University of California, Irvine",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Essential Linear Algebra for Data Science",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "SQL for Data Science Capstone Project",
+        "organization": "University of California, Davis",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Spatial Data Science and Applications",
+        "organization": "Yonsei University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Command Line Tools for Genomic Data Science",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Statistics for Genomic Data Science",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Integral Calculus and Numerical Analysis for Data Science",
+        "organization": "University of Colorado Boulder",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Advanced Linear Models for Data Science 1: Least Squares",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Prepare for DP-100: Data Science on Microsoft Azure Exam",
+        "organization": "Microsoft",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Executive Data Science Capstone",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Advanced Linear Models for Data Science 2: Statistical Linear Models",
+        "organization": "Johns Hopkins University",
+        "skills": [],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Science Fundamentals for Data Analysts",
+        "organization": "Databricks",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Science Project: MATLAB for the Real World",
+        "organization": "MathWorks",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Science Capstone",
+        "organization": "Johns Hopkins University",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Networking and Storage",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "Networking Fundamentals",
+        "organization": "Akamai Technologies, Inc.",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "Computer Communications",
+        "organization": "University of Colorado System",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Network Automation Engineering Fundamentals",
+        "organization": "Cisco Learning and Certifications",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Akamai Network Engineering",
+        "organization": "Akamai Technologies, Inc.",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cybersecurity Operations Fundamentals",
+        "organization": "Cisco Learning and Certifications",
+        "skills": [],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Create a Profile and Network on LinkedIn",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to TCP/IP",
+        "organization": "Yonsei University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Palo Alto Networks Cybersecurity",
+        "organization": "Palo Alto Networks",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Get Started with Figma",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Career Discovery",
+        "organization": "University System of Georgia",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Network Defense Essentials (NDE)",
+        "organization": "EC-Council",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to CRM with HubSpot",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Networks and Communications Security",
+        "organization": "ISC2",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Neural Network from Scratch in TensorFlow",
+        "organization": "Coursera Project Network",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "IBM Business Intelligence (BI) Analyst",
+        "organization": "SkillUp EdTech",
+        "skills": [
+            "SQL"
+        ],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Cloud Database Engineer",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "SQL",
+            "Kubernetes"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Preparing for Google Cloud Certification: Cloud DevOps Engineer",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "AI for Medicine",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "TensorFlow: Advanced Techniques",
+        "organization": "DeepLearning.AI",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Cloud Fundamentals: Core Infrastructure",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Cloud Computing",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Configuration Management and the Cloud",
+        "organization": "Google",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Microsoft Azure Cloud Services",
+        "organization": "Microsoft",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "AWS Cloud Practitioner Essentials",
+        "organization": "Amazon Web Services",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cloud Computing Basics (Cloud 101)",
+        "organization": "LearnQuest",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Digital Transformation Using AI/ML with Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes",
+            "Machine Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Cloud-Native Development with OpenShift and Kubernetes",
+        "organization": "Red Hat",
+        "skills": [
+            "Kubernetes",
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Essential Google Cloud Infrastructure: Foundation",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Moving to the Cloud",
+        "organization": "The University of Melbourne",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Cloud Digital Leader Training",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Internet of Things and AI Cloud",
+        "organization": "University of California San Diego",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Create a Virtual Private Cloud (VPC) Using AWS",
+        "organization": "Coursera Project Network",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Building Scalable Java Microservices with Spring Boot and Spring Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Preparing for your Professional Cloud Architect Journey",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Getting started with Google Workspace",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Starting Your Career with AWS Cloud",
+        "organization": "Amazon Web Services",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Managing Cloud-native Applications with Kubernetes",
+        "organization": "Red Hat",
+        "skills": [
+            "Kubernetes",
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Fundamentals of Cloud Computing",
+        "organization": "LearnQuest",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Exam Prep: AWS Certified Cloud Practitioner Foundations",
+        "organization": "Amazon Web Services",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to SQL for BigQuery and Cloud SQL",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "SQL"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Cloud Product Fundamentals en Espa\u00f1ol",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "App Deployment, Debugging, and Performance",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Understanding Google Cloud Security and Operations",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Cloud Security"
+        ]
+    },
+    {
+        "name": "Foundations of Red Hat Cloud-native Development",
+        "organization": "Red Hat",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Essential Cloud Infrastructure: Core Services \u65e5\u672c\u8a9e\u7248",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Elastic Cloud Infrastructure: Scaling and Automation em Portugu\u00eas Brasileiro",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Innovating with Data and Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Mitigating Security Vulnerabilities on Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Cloud Big Data and Machine Learning Fundamentals",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Introduction to Containers w/ Docker, Kubernetes & OpenShift",
+        "organization": "IBM",
+        "skills": [
+            "Kubernetes",
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Reliable Cloud Infrastructure: Design and Process \u65e5\u672c\u8a9e\u7248",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Getting Started with Terraform for Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "API Security on Google Cloud's Apigee API Platform",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Cloud Fundamentals: Core Infrastructure dalam bahasa Indonesia",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "API Development on Google Cloud's Apigee API Platform",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Reliable Cloud Infrastructure: Design and Process em Portugu\u00eas Brasileiro",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Getting Started With Application Development",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Elastic Cloud Infrastructure: Scaling and Automation \u65e5\u672c\u8a9e\u7248",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Organizational Change and Culture for Adopting Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Logging and Monitoring in Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Modernizing Data Lakes and Data Warehouses with Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Cloud Fundamentals: Core Infrastructure en Fran\u00e7ais",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cloud Networking",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Networking"
+        ]
+    },
+    {
+        "name": "Essential Cloud Infrastructure: Core Services em Portugu\u00eas Brasileiro",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cloud Systems Software",
+        "organization": "Georgia Institute of Technology",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Alibaba Cloud Computing",
+        "organization": "Alibaba Cloud Academy",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Spring - Cloud Overview",
+        "organization": "LearnQuest",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Infrastructure and Application Modernization with Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Elastic Cloud Infrastructure: Scaling and Automation en Espa\u00f1ol",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Developing Cloud Native Applications",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Developing Applications with Google Cloud \u65e5\u672c\u8a9e\u7248",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Applying Machine Learning to your Data with Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning",
+            "SQL"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Serverless Data Processing with Dataflow",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Essential Cloud Infrastructure: Foundation - Fran\u00e7ais",
+        "organization": "Google Cloud",
+        "skills": [],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cloud Virtualization, Containers and APIs",
+        "organization": "Duke University",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Microsoft Azure for Data Engineering",
+        "organization": "Microsoft",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Google Cloud Infrastructure for Azure Professionals",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Gmail",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Developing Cloud Apps with Node.js and React",
+        "organization": "IBM",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Essential Cloud Infrastructure: Foundation - Bahasa Indonesia",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Deploying SAP on Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate en Espa\u00f1ol",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing",
+            "Kubernetes"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "TensorFlow on Google Cloud",
+        "organization": "Google Cloud",
+        "skills": [
+            "Deep Learning",
+            "Machine Learning",
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Cloud Digital Leader Training \u65e5\u672c\u8a9e\u7248",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Preparing for Your Associate Cloud Engineer Journey en Espa\u00f1ol",
+        "organization": "Google Cloud",
+        "skills": [],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "On Premises Installation and Fundamentals with Google Cloud's Apigee API Platform",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Data Engineer, Big Data and ML on Google Cloud em Portugu\u00eas",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "On Premises Capacity Upgrade and Monitoring with Google Cloud's Apigee API Platform",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Business Transformation with Google Cloud en Espa\u00f1ol",
+        "organization": "Google Cloud",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Fintech: Foundations & Applications of Financial Technology",
+        "organization": "University of Pennsylvania",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "FinTech: Foundations, Payments, and Regulations",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Financial Technology (Fintech) Innovations",
+        "organization": "University of Michigan",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "The Future of Payment Technologies",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "FinTech Law and Policy",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "FinTech: Finance Industry Transformation and Regulation",
+        "organization": "The Hong Kong University of Science and Technology",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "FinTech Foundations and Overview",
+        "organization": "The Hong Kong University of Science and Technology",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Fintech Startups in Emerging Markets",
+        "organization": "University of Cape Town",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Digital Transformation in Financial Services",
+        "organization": "Copenhagen Business School",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Decentralized Finance (DeFi): The Future of Finance",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "How Software Ate Finance",
+        "organization": "Stanford University",
+        "skills": [],
+        "career_goal": "Software Engineer",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "FinTech Security and Regulation (RegTech)",
+        "organization": "The Hong Kong University of Science and Technology",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "FinTech and the Transformation in Financial Services",
+        "organization": "Copenhagen Business School",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python and Statistics for Financial Analysis",
+        "organization": "The Hong Kong University of Science and Technology",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Supply Chain Finance Market and Fintech Ecosystem",
+        "organization": "New York Institute of Finance",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "FinTech Risk Management",
+        "organization": "The Hong Kong University of Science and Technology",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Supply Chain Finance and Blockchain Technology",
+        "organization": "New York Institute of Finance",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Financial Regulation in Emerging Markets and the Rise of Fintech Companies",
+        "organization": "University of Cape Town",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Economics of Money and Banking",
+        "organization": "Columbia University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Raising Capital: Credit Tech, Coin Offerings, and Crowdfunding",
+        "organization": "University of Michigan",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Banking and Financial Institutions",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Application of AI, InsurTech, and Real Estate Technology",
+        "organization": "University of Pennsylvania",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "AI Engineer",
+        "interests": [
+            "AI"
+        ]
+    },
+    {
+        "name": "Lending, Crowdfunding, and Modern Investing",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Blockchain Revolution",
+        "organization": "INSEAD",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Blockchain Revolution in Financial Services",
+        "organization": "INSEAD",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Building Fintech Startups in Emerging Markets",
+        "organization": "University of Cape Town",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Entrepreneurial Finance: Strategy and Innovation",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Decentralized Finance (DeFi) Opportunities and Risks",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Decentralized Finance (DeFi) Infrastructure",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Blockchain Business Models",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Introduction to Blockchain for Financial Services",
+        "organization": "INSEAD",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Creating and Developing a Tech Startup",
+        "organization": "\u00c9cole Polytechnique",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Agile with Atlassian Jira",
+        "organization": "Atlassian",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "How Entrepreneurs in Emerging Markets can master the Blockchain Technology",
+        "organization": "University of Cape Town",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Marketing Digital",
+        "organization": "Universidade de S\u00e3o Paulo",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Financing for Startup Businesses",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Innovations in Investment Technology: Artificial Intelligence",
+        "organization": "University of Michigan",
+        "skills": [
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Blockchain and Business",
+        "organization": "INSEAD",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Introduction to Blockchain",
+        "organization": "Association of International Certified Professional Accountants",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Information Systems Auditing, Controls and Assurance",
+        "organization": "The Hong Kong University of Science and Technology",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Blockchain Transformations of Financial Services",
+        "organization": "INSEAD",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Cryptocurrency and Blockchain: An Introduction to Digital Currencies",
+        "organization": "University of Pennsylvania",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Decentralized Finance (DeFi) Primitives",
+        "organization": "Duke University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Web3 and Blockchain in Global Commerce",
+        "organization": "INSEAD",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Blockchain, Cryptoassets, and Decentralized Finance",
+        "organization": "INSEAD",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Creative Writing",
+        "organization": "Wesleyan University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Managing Emotions in Times of Uncertainty & Stress",
+        "organization": "Yale University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "UI / UX Design",
+        "organization": "California Institute of the Arts",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Creating a Free Business Page with Blogger",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "L'investissement \u00e0 impact, la finance qui change le monde",
+        "organization": "ESSEC Business School",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Customer Service Fundamentals",
+        "organization": "Knowledge Accelerators",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "1.- El C\u00e1lculo - Modelo Lineal",
+        "organization": "Tecnol\u00f3gico de Monterrey",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Introduction to Statistics",
+        "organization": "Stanford University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Finding Your Professional Voice: Confidence & Impact",
+        "organization": "University of London",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Finan\u00e7as Orientada a Dados",
+        "organization": "Funda\u00e7\u00e3o Instituto de Administra\u00e7\u00e3o",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cloud Architect",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Intelligence Tools for the Digital Age",
+        "organization": "IE Business School",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Public Speaking with Canva",
+        "organization": "Coursera Project Network",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Learning How to Learn: Powerful mental tools to help you master tough subjects",
+        "organization": "Deep Teaching Solutions",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cybersecurity Compliance Framework & System Administration",
+        "organization": "IBM",
+        "skills": [],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Investment Banking: Financial Analysis and Valuation",
+        "organization": "University of Illinois at Urbana-Champaign",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Work Smarter with Microsoft Word",
+        "organization": "Microsoft",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "3.- El C\u00e1lculo - Modelo C\u00fabico",
+        "organization": "Tecnol\u00f3gico de Monterrey",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Digital Manufacturing & Design Technology",
+        "organization": "University at Buffalo",
+        "skills": [
+            "Cloud Computing",
+            "Machine Learning"
+        ],
+        "career_goal": "Data Scientist",
+        "interests": [
+            "Big Data"
+        ]
+    },
+    {
+        "name": "Cyber Incident Response",
+        "organization": "Infosec",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Gesti\u00f3n de proyectos con la metodolog\u00eda Agile",
+        "organization": "Google",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Teach English Now! Technology Enriched Teaching",
+        "organization": "Arizona State University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Faster Together, Enhancing the Recruitment of Marginalized Communities in Clinical Trials",
+        "organization": "Vanderbilt University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Web3 and Blockchain Leadership for Transformation",
+        "organization": "INSEAD",
+        "skills": [],
+        "career_goal": "Blockchain Developer",
+        "interests": [
+            "Blockchain"
+        ]
+    },
+    {
+        "name": "Cybersecurity for Everyone",
+        "organization": "University of Maryland, College Park",
+        "skills": [],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "International Security Management",
+        "organization": "Erasmus University Rotterdam",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python for Cybersecurity",
+        "organization": "Infosec",
+        "skills": [],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Network Security",
+        "organization": "Cisco Learning and Certifications",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Security & Safety Challenges in a Globalized World",
+        "organization": "Universiteit Leiden",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "JavaScript Security",
+        "organization": "Infosec",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "Web Development"
+        ]
+    },
+    {
+        "name": "Cryptography I",
+        "organization": "Stanford University",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Security Operations Center (SOC)",
+        "organization": "Cisco Learning and Certifications",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Security Awareness Training",
+        "organization": "ISC2",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Security Governance & Compliance",
+        "organization": "University of California, Irvine",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cybersecurity and Mobility",
+        "organization": "University System of Georgia",
+        "skills": [],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Security Operations",
+        "organization": "ISC2",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Security Principles",
+        "organization": "ISC2",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Google Workspace Security",
+        "organization": "Google Cloud",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Cybersecurity for Tech Professionals",
+        "organization": "Campus BBVA",
+        "skills": [],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Cybersecurity in the Cloud",
+        "organization": "University of Minnesota",
+        "skills": [
+            "Cloud Computing"
+        ],
+        "career_goal": "Cybersecurity Analyst",
+        "interests": [
+            "Cybersecurity"
+        ]
+    },
+    {
+        "name": "Applied Cryptography",
+        "organization": "University of Colorado System",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    },
+    {
+        "name": "Python for Active Defense",
+        "organization": "Infosec",
+        "skills": [],
+        "career_goal": "General Professional Development",
+        "interests": [
+            "General Interest"
+        ]
+    }
+]

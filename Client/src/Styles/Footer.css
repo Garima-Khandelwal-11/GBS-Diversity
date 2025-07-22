@@ -1,0 +1,19 @@
+.footer {
+  width: 100%;
+  padding: 1rem;
+  background-color: white; /* Change background color to white */
+  color: black; /* Change text color to black */
+  text-align: center;
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: auto; /* Ensure footer comes after all content */
+}
+
+.footer a {
+  color: #007bff; /* Blue color for links */
+  text-decoration: none;
+  margin: 0 0.5rem;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}

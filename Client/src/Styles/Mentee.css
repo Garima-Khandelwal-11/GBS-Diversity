@@ -1,0 +1,85 @@
+.mentee-container {
+  padding: 20px;
+}
+
+.tabs {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+
+.tab {
+  padding: 10px 20px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+}
+
+.tab.active {
+  border-bottom: 2px solid #716ACC;
+  font-weight: bold;
+}
+
+.request-card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.request-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.request-card .details {
+  flex-grow: 1;
+}
+
+.request-card .actions {
+  display: flex;
+  align-items: center;
+}
+
+.request-card button {
+  margin-left: 10px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.request-card .accept-btn {
+  background: linear-gradient(45deg, #32CD32, #228B22);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.request-card .reject-btn {
+  background: linear-gradient(45deg, #958fea, #716ACC);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.request-list {
+  margin-top: 20px;
+}
+
+.request-card .details p {
+  margin: 5px 0;
+  color: #555;
+}
+
+.request-card .details span {
+  display: block;
+  font-size: 0.9em;
+  color: #888;
+}

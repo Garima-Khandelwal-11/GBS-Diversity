@@ -1,0 +1,117 @@
+.match-status {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  height: 80vh;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.match-status.full-width {
+  width: 100%;
+}
+
+.match-status h2 {
+  margin-bottom: 1rem;
+}
+
+.profile-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.profile-picture {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-right: 1rem;
+}
+
+.profile-details {
+  text-align: left;
+}
+
+.match-score {
+  margin-bottom: 1rem;
+}
+
+.common-skills {
+  margin-bottom: 1rem;
+}
+
+.cards-container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  height: 90%;
+  gap: 1rem; /* Add gap between cards */
+}
+
+.card {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 32%; /* Increase width of the cards */
+  height: 70%;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 1rem; /* Add margin between rows */
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+}
+
+.upcoming-session {
+  margin-bottom: 1rem;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.more-text {
+  display: block;
+  margin: 1rem auto;
+  color: #007bff; /* Solid blue color */
+  text-decoration: none;
+  font-size: 1rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.more-text:hover {
+  color: #0056b3; /* Darker blue on hover */
+  transform: scale(1.05);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
