@@ -14,6 +14,7 @@ import Notifications from './Pages/Notifications';
 import Resource from './Pages/Resource';
 import Header from './Components/Common/Header';
 import Footer from './Components/Common/Footer';
+import Chatbot from './Components/Common/Chatbot';
 import { ThemeProvider } from './Context/ThemeToggle.jsx';
 import './App.css';
 
@@ -39,6 +40,7 @@ const AppLayout = () => {
         </Routes>
       </div>
       {!isAuthPage && <Footer />}
+      {!isAuthPage && <Chatbot />}
     </div>
   );
 };

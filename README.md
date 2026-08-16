@@ -57,7 +57,8 @@ There’s a growing need for personalized mentorship among women in tech. MentHe
 
 ### 💬 Chatbot Integration
 
-* GenAI-powered chatbot for smart recommendations and user assistance.
+* GenAI-powered chatbot (Google Gemini API) for platform assistance and mentorship/career Q&A.
+* Floating chat widget available on every page; backend endpoint at `POST /chatbot`.
 
 ### 🔐 Security & Privacy
 
@@ -161,7 +162,11 @@ MONGO_URI=your_mongodb_uri
 GOOGLE_CLIENT_ID=your_google_client_id
 GOOGLE_CLIENT_SECRET=your_google_client_secret
 JWT_SECRET=your_jwt_secret
+GEMINI_API_KEY=your_gemini_api_key   # free key: https://aistudio.google.com/apikey
+GEMINI_MODEL=gemini-2.5-flash        # optional, defaults to gemini-2.5-flash
 ```
+
+See `Server/.env.example` for the full list of variables the backend actually reads.
 
 ### ▶️ Run the App
 

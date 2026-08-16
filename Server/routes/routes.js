@@ -16,6 +16,7 @@ import { getMatchedMentees,getMatchedMentors } from "../controllers/getMatchedMe
 import { connectMenteeWithMentor } from "../controllers/sendmail.js";
 import { insertCourses } from "../controllers/addCourses.js";
 import { getRecommendedCourses } from "../controllers/getRecommendedCourses.js";
+import { chatbotReply } from "../controllers/Chatbot.js";
 
 router.post("/signIn", Register);
 router.post("/logIn",login);
@@ -32,6 +33,7 @@ router.post("/getMatchedMentors", getMatchedMentors);
 router.post("/connect", connectMenteeWithMentor);
 router.post("/addCourse",insertCourses);
 router.post("/getCourse",getRecommendedCourses);
+router.post("/chatbot", chatbotReply);
 
 
 

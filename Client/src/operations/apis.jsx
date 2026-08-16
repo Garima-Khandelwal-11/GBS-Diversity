@@ -5,5 +5,6 @@ export const endpoints = {
     SIGNUP_API: BASE_URL +"/signIn",
     USER_PROFILE: BASE_URL+ "/getProfileDataWithEmail",
     ALL_MENTOR: BASE_URL+ "/getAllMentors",
+    CHATBOT_API: BASE_URL + "/chatbot",
 
 };
