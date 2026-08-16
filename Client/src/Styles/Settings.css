@@ -72,3 +72,27 @@
   outline: none;
   border-color: #007bff;
 }
+
+.twofa-setup,
+.twofa-disable {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.twofa-setup img {
+  align-self: flex-start;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.twofa-secret {
+  font-family: monospace;
+  background: #f1f1f1;
+  padding: 0.5rem;
+  border-radius: 6px;
+  word-break: break-all;
+}

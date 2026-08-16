@@ -63,10 +63,11 @@ There’s a growing need for personalized mentorship among women in tech. MentHe
 ### 🔐 Security & Privacy
 
 * Google Sign-In (OAuth 2.0) for existing accounts, plus Email/JWT authentication for signup and login.
+* TOTP-based 2FA (compatible with Google Authenticator, Authy, etc.) — optional, enabled per-account from Settings → Security.
 * Secure password hashing.
 * Role-based data visibility.
 
-> 2FA and SSL/TLS are listed as future work, not yet implemented — see [Future Enhancements](#-future-enhancements).
+> SSL/TLS is listed as future work (a deployment/infra concern, not an app feature) — see [Future Enhancements](#-future-enhancements).
 
 ---
 
@@ -226,7 +227,6 @@ We love contributions!
 
 ## 🌱 Future Enhancements
 
-* 🔐 2FA support
 * 🔒 SSL/TLS termination in production deployment
 * 🔗 In-app video conferencing
 * 📈 Advanced career analytics

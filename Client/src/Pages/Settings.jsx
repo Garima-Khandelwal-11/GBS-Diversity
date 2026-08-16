@@ -16,6 +16,9 @@ const Settings = () => {
         <AccountSettings />
       </div>
       <div className="settings-section">
+        <SecuritySettings />
+      </div>
+      <div className="settings-section">
         <NotificationSettings />
       </div>
       <div className="settings-section">

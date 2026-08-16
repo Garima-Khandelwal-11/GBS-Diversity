@@ -23,6 +23,10 @@ export function login(email, password, navigate) {
         throw new Error(response.data.message);
       }
 
+      if (response.data.data.requires2FA) {
+        return { requires2FA: true, user_id: response.data.data.user_id };
+      }
+
       // Notify user of successful login
       toast.success("Login Successful!");
 
@@ -53,6 +57,10 @@ export function googleLogin(credential, navigate) {
       if (!response.data.data.success) {
         toast.error(response.data.message);
         throw new Error(response.data.message);
+      }
+
+      if (response.data.data.requires2FA) {
+        return { requires2FA: true, user_id: response.data.data.user_id };
       }
 
       toast.success("Login Successful!");

@@ -29,6 +29,16 @@ const userSchema = new Schema({
   reset_expires: {
     type: Date,
   },
+  twoFA_enabled: {
+    type: Boolean,
+    default: false,
+  },
+  twoFA_secret: {
+    type: String,
+  },
+  twoFA_temp_secret: {
+    type: String,
+  },
 });
 
 

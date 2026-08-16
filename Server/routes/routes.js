@@ -18,6 +18,13 @@ import { insertCourses } from "../controllers/addCourses.js";
 import { getRecommendedCourses } from "../controllers/getRecommendedCourses.js";
 import { chatbotReply } from "../controllers/Chatbot.js";
 import { googleLogin } from "../controllers/GoogleAuth.js";
+import {
+    getTwoFactorStatus,
+    setupTwoFactor,
+    confirmTwoFactorSetup,
+    verifyTwoFactorLogin,
+    disableTwoFactor,
+} from "../controllers/TwoFactor.js";
 
 router.post("/signIn", Register);
 router.post("/logIn",login);
@@ -36,6 +43,11 @@ router.post("/addCourse",insertCourses);
 router.post("/getCourse",getRecommendedCourses);
 router.post("/chatbot", chatbotReply);
 router.post("/google-login", googleLogin);
+router.post("/2fa/status", getTwoFactorStatus);
+router.post("/2fa/setup", setupTwoFactor);
+router.post("/2fa/verify-setup", confirmTwoFactorSetup);
+router.post("/2fa/verify-login", verifyTwoFactorLogin);
+router.post("/2fa/disable", disableTwoFactor);
 
 
 

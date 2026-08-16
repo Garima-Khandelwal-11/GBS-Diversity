@@ -1,6 +1,6 @@
 import { OAuth2Client } from "google-auth-library";
 import User from "../models/users.model.js";
-import jwt from "../utils/jwt.js";
+import { issueAuthTokens } from "../utils/issueAuthTokens.js";
 import { ApiResponse } from "../utils/ApiResponse.js";
 
 const client = new OAuth2Client(process.env.GOOGLE_CLIENT_ID);
@@ -36,36 +36,17 @@ export const googleLogin = async (req, res) => {
     });
   }
 
-  const u_role = user.role === 1 ? "Mentor" : "Mentee";
+  if (user.twoFA_enabled) {
+    return res
+      .status(200)
+      .json(
+        new ApiResponse(
+          200,
+          { success: true, requires2FA: true, user_id: user.user_id },
+          "Enter your 2FA code to finish logging in"
+        )
+      );
+  }
 
-  const accessToken = jwt.generateAccessToken({ id: user.user_id, role: u_role });
-  const refreshToken = jwt.generateRefreshToken({ id: user.user_id, role: u_role });
-
-  const options = {
-    expires: new Date(Date.now() + 3 * 24 * 60 * 60 * 1000),
-    httpOnly: true,
-    secure: true,
-  };
-
-  user.refresh_token.push(refreshToken);
-  await user.save();
-  user.password = undefined;
-
-  return res
-    .status(200)
-    .cookie("accessToken", accessToken, options)
-    .cookie("refreshToken", refreshToken, options)
-    .json(
-      new ApiResponse(
-        200,
-        {
-          success: true,
-          accessToken,
-          refreshToken,
-          u_role,
-          user,
-        },
-        "User logged in with Google successfully"
-      )
-    );
+  return issueAuthTokens(res, user, "User logged in with Google successfully");
 };
