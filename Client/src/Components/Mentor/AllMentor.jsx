@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import MatchScoreChart from '../MatchScoreChart';
 import '../../Styles/Mentor.css';
 
+const SERVER_BASE_URL = import.meta.env.VITE_SERVER_BASE_URL;
+
 const AllMentor = () => {
   const [mentors, setMentors] = useState([]);
   const [loading, setLoading] = useState(true); // For loading state
@@ -34,7 +36,7 @@ const AllMentor = () => {
   // Fetch mentors from the API
   const fetchMentors = async () => {
     try {
-      const response = await fetch('http://localhost:3000/getAllMentors', {
+      const response = await fetch(`${SERVER_BASE_URL}/getAllMentors`, {
         method: 'POST', 
         headers: {
           'Content-Type': 'application/json',
@@ -74,7 +76,7 @@ const AllMentor = () => {
       const menteeName = user.data.mentee_name;
       console.log(menteeEmail);
       //menteeEmail, mentorEmail, menteeName, mentorName
-      const response = await fetch('http://localhost:3000/connect', {
+      const response = await fetch(`${SERVER_BASE_URL}/connect`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

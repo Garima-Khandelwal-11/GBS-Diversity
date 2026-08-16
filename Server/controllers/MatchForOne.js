@@ -4,6 +4,8 @@ import User from "../models/users.model.js";
 import Match from "../models/matches.model.js";
 import axios from "axios";
 
+const MATCHER_SERVICE_URL = process.env.MATCHER_SERVICE_URL || "http://localhost:5000/match";
+
 export const MatchOneMentee = async(req,res)=>{
     const {user_id}=req.body;
     if(!user_id)
@@ -26,7 +28,7 @@ export const MatchOneMentee = async(req,res)=>{
             }
             console.log(mentors);
             await Match.deleteMany({ mentee_id: user_id });
-            const response = await axios.post("http://localhost:5000/match", {
+            const response = await axios.post(MATCHER_SERVICE_URL, {
                     mentees: [mentee], // Only one mentee for matching
                     mentors: mentors
             });
@@ -77,7 +79,7 @@ export const MatchOneMentor = async(req,res)=>{
             }
             console.log(mentees);
             await Match.deleteMany({ mentor_id: user_id });
-            const response = await axios.post("http://localhost:5000/match", {
+            const response = await axios.post(MATCHER_SERVICE_URL, {
                     mentees: mentees, 
                     mentors: [mentor]
             });
@@ -129,7 +131,7 @@ export const matchOneMenteeLogic = async (user_id) => {
         // Remove old matches for this mentee
         await Match.deleteMany({ mentee_id: user_id });
 
-        const response = await axios.post("http://localhost:5000/match", {
+        const response = await axios.post(MATCHER_SERVICE_URL, {
             mentees: [mentee],
             mentors: mentors,
         });
@@ -179,7 +181,7 @@ export const matchOneMentorLogic = async (user_id) => {
         // Remove old matches for this mentor
         await Match.deleteMany({ mentor_id: user_id });
 
-        const response = await axios.post("http://localhost:5000/match", {
+        const response = await axios.post(MATCHER_SERVICE_URL, {
             mentors: [mentor],
             mentees: mentees,
         });

@@ -1,0 +1,45 @@
+services:
+  - type: web
+    name: gbs-diversity-backend
+    runtime: node
+    rootDir: Server
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: DATABASE_URL
+        sync: false
+      - key: CORS_ORIGIN
+        sync: false
+      - key: ACCESS_TOKEN_SECRET
+        sync: false
+      - key: ACCESS_TOKEN_EXPIRY
+        value: 15m
+      - key: REFRESH_TOKEN_SECRET
+        sync: false
+      - key: REFRESH_TOKEN_EXPIRY
+        value: 7d
+      - key: RESET_TOKEN_SECRET
+        sync: false
+      - key: SENDGRID_API_KEY
+        sync: false
+      - key: GOOGLE_CLIENT_ID
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-2.5-flash
+      # After the matcher service below has deployed, set this to
+      # https://<matcher service's onrender.com URL>/match
+      - key: MATCHER_SERVICE_URL
+        sync: false
+
+  - type: web
+    name: gbs-diversity-matcher
+    runtime: python
+    rootDir: .
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn function_model:app --bind 0.0.0.0:$PORT

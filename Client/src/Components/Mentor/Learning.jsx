@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import '../../Styles/Mentor.css';
 
+const SERVER_BASE_URL = import.meta.env.VITE_SERVER_BASE_URL;
+
 const Learning = () => {
   const navigate = useNavigate();
   const [courses, setCourses] = useState([]);
@@ -19,7 +21,7 @@ const Learning = () => {
       }
 
       try {
-        const response = await fetch('http://localhost:3000/getCourse', {
+        const response = await fetch(`${SERVER_BASE_URL}/getCourse`, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',

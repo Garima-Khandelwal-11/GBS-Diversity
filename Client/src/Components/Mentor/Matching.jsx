@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import '../../Styles/Mentor.css';
 
+const SERVER_BASE_URL = import.meta.env.VITE_SERVER_BASE_URL;
+
 const Matching = () => {
   const [mentors, setMentors] = useState([]); // State to store matched mentors
   const [loading, setLoading] = useState(true); // State to handle loading
@@ -9,7 +11,7 @@ const Matching = () => {
 
   const fetchProfileDetails = async (mentorId) => {
     try {
-      const response = await fetch('http://localhost:3000/getProfileDataWithID', {
+      const response = await fetch(`${SERVER_BASE_URL}/getProfileDataWithID`, {
         method: 'POST', // Use POST instead of GET
         headers: {
           'Content-Type': 'application/json',
@@ -39,7 +41,7 @@ const Matching = () => {
         return;
       }
 
-      const response = await fetch('http://localhost:3000/getMatchedMentors', {
+      const response = await fetch(`${SERVER_BASE_URL}/getMatchedMentors`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -87,7 +89,7 @@ const Matching = () => {
       console.log(menteeName);
       console.log( mentorEmail);
       console.log(mentorName);
-      const response = await fetch('http://localhost:3000/connect', {
+      const response = await fetch(`${SERVER_BASE_URL}/connect`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
