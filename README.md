@@ -62,11 +62,11 @@ There’s a growing need for personalized mentorship among women in tech. MentHe
 
 ### 🔐 Security & Privacy
 
-* Google & Email authentication (OAuth 2.0 + JWT).
-* 2FA support.
+* Google Sign-In (OAuth 2.0) for existing accounts, plus Email/JWT authentication for signup and login.
 * Secure password hashing.
 * Role-based data visibility.
-* SSL/TLS and data encryption.
+
+> 2FA and SSL/TLS are listed as future work, not yet implemented — see [Future Enhancements](#-future-enhancements).
 
 ---
 
@@ -89,9 +89,8 @@ There’s a growing need for personalized mentorship among women in tech. MentHe
 
 ### 🔐 Authentication & Security
 
-* **OAuth 2.0**, **JWT**
+* **OAuth 2.0** (Google Sign-In), **JWT**
 * Secure password hashing
-* SSL/TLS encryption
 
 ---
 
@@ -158,15 +157,23 @@ npm install
 Create a `.env` file in the backend root. Include:
 
 ```
-MONGO_URI=your_mongodb_uri
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-JWT_SECRET=your_jwt_secret
+DATABASE_URL=your_mongodb_uri
+GOOGLE_CLIENT_ID=your_google_oauth_client_id   # create at https://console.cloud.google.com/apis/credentials
+ACCESS_TOKEN_SECRET=your_access_token_secret
+REFRESH_TOKEN_SECRET=your_refresh_token_secret
 GEMINI_API_KEY=your_gemini_api_key   # free key: https://aistudio.google.com/apikey
 GEMINI_MODEL=gemini-2.5-flash        # optional, defaults to gemini-2.5-flash
 ```
 
 See `Server/.env.example` for the full list of variables the backend actually reads.
+
+The frontend also needs the same Google OAuth client ID in `Client/.env`:
+
+```
+VITE_GOOGLE_CLIENT_ID=your_google_oauth_client_id
+```
+
+> Note: Google Sign-In currently only works for **existing accounts** (sign up with email/password first, then Google login works on return visits). A brand-new account can't be created via Google alone yet, since the signup form also collects role, skills, and career goals that Google doesn't provide.
 
 ### ▶️ Run the App
 
@@ -219,6 +226,8 @@ We love contributions!
 
 ## 🌱 Future Enhancements
 
+* 🔐 2FA support
+* 🔒 SSL/TLS termination in production deployment
 * 🔗 In-app video conferencing
 * 📈 Advanced career analytics
 * 🌐 Community forum for peer support

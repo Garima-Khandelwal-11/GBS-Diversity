@@ -2,7 +2,7 @@ import toast from "react-hot-toast";
 import { apiConnector } from "../apiConnector";
 import { endpoints } from "../apis";
 
-const { LOGIN_API, SIGNUP_API, USER_PROFILE } = endpoints;
+const { LOGIN_API, SIGNUP_API, USER_PROFILE, GOOGLE_LOGIN_API } = endpoints;
 
 export function login(email, password, navigate) {
   return async (dispatch) => {
@@ -37,6 +37,33 @@ export function login(email, password, navigate) {
       navigate("/");
     } catch (error) {
       toast.error(error.response?.data?.message || "Login failed");
+      console.error(error);
+    } finally {
+      toast.dismiss(toast_id);
+    }
+  };
+}
+
+export function googleLogin(credential, navigate) {
+  return async () => {
+    const toast_id = toast.loading("Signing in with Google...");
+    try {
+      const response = await apiConnector("POST", GOOGLE_LOGIN_API, { credential });
+
+      if (!response.data.data.success) {
+        toast.error(response.data.message);
+        throw new Error(response.data.message);
+      }
+
+      toast.success("Login Successful!");
+
+      const userDetails = response.data.data.user;
+      localStorage.setItem("user", JSON.stringify(userDetails));
+      localStorage.setItem("role", userDetails.role);
+
+      navigate("/");
+    } catch (error) {
+      toast.error(error.response?.data?.message || "Google login failed");
       console.error(error);
     } finally {
       toast.dismiss(toast_id);

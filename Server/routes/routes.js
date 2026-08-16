@@ -17,6 +17,7 @@ import { connectMenteeWithMentor } from "../controllers/sendmail.js";
 import { insertCourses } from "../controllers/addCourses.js";
 import { getRecommendedCourses } from "../controllers/getRecommendedCourses.js";
 import { chatbotReply } from "../controllers/Chatbot.js";
+import { googleLogin } from "../controllers/GoogleAuth.js";
 
 router.post("/signIn", Register);
 router.post("/logIn",login);
@@ -34,6 +35,7 @@ router.post("/connect", connectMenteeWithMentor);
 router.post("/addCourse",insertCourses);
 router.post("/getCourse",getRecommendedCourses);
 router.post("/chatbot", chatbotReply);
+router.post("/google-login", googleLogin);
 
 
 

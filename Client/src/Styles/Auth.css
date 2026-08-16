@@ -46,3 +46,9 @@ button:hover {
 .section-title{
   color: black
 }
+
+.google-login-divider {
+  margin: 20px 0;
+  color: #888;
+  font-size: 0.9rem;
+}
