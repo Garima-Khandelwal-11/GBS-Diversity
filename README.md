@@ -192,6 +192,48 @@ App runs at `http://localhost:3000`
 
 ---
 
+## 🚀 Deployment
+
+The app is three separate services, all deployable on free tiers: the React frontend (Vercel), the Node/Express API (Render), and the Python matching microservice (Render). `render.yaml` and `Client/vercel.json` in this repo drive the Render and Vercel configs respectively — you still need to create the accounts and paste in secrets yourself, since those steps require your own login.
+
+### 1. Database — MongoDB Atlas
+
+* [cloud.mongodb.com](https://cloud.mongodb.com) → create a free **M0** cluster → get the connection string. This is your `DATABASE_URL`.
+
+### 2. Google OAuth client
+
+* [console.cloud.google.com/apis/credentials](https://console.cloud.google.com/apis/credentials) → create an OAuth 2.0 Client ID (Web application). You'll add your deployed frontend URL to **Authorized JavaScript origins** once it exists (step 6).
+
+### 3. Gemini API key (chatbot)
+
+* [aistudio.google.com/apikey](https://aistudio.google.com/apikey) → free key for `GEMINI_API_KEY`.
+
+### 4. Backend + matcher — Render
+
+* [render.com](https://render.com) → **New → Blueprint** → connect this repo. Render reads `render.yaml` and creates two services: `gbs-diversity-backend` (Node) and `gbs-diversity-matcher` (Python/Flask).
+* When prompted for env vars, provide: `DATABASE_URL`, `GOOGLE_CLIENT_ID`, `GEMINI_API_KEY`, `SENDGRID_API_KEY`, and random strings for `ACCESS_TOKEN_SECRET` / `REFRESH_TOKEN_SECRET` / `RESET_TOKEN_SECRET`.
+* Leave `CORS_ORIGIN` and `MATCHER_SERVICE_URL` blank for now — they're filled in during step 6.
+
+### 5. Frontend — Vercel
+
+* [vercel.com](https://vercel.com) → **New Project** → import this repo.
+* Set **Root Directory to `Client`** (Vercel won't detect this automatically in a monorepo).
+* Add env vars `VITE_SERVER_BASE_URL` (the Render backend's URL) and `VITE_GOOGLE_CLIENT_ID`.
+* Deploy. `Client/vercel.json` handles SPA rewrites so client-side routes (`/profile`, `/settings`, etc.) don't 404 on refresh.
+
+### 6. Wire the three services together
+
+Once both Render services and the Vercel deploy are live:
+
+* On Render, set the backend's `CORS_ORIGIN` to your Vercel URL, and `MATCHER_SERVICE_URL` to `https://<matcher-service>.onrender.com/match` — then redeploy the backend.
+* On Google Cloud Console, add your Vercel URL to the OAuth client's **Authorized JavaScript origins**, or Google Sign-In will be rejected by the browser.
+
+### ⚠️ Free-tier caveat
+
+Render's free web services spin down after ~15 minutes idle and take 30–50 seconds to wake on the next request. If you're sharing this link (e.g. on a resume), the first load after idle time will look slow/broken for that one request — it's not a bug, just the free tier.
+
+---
+
 ## 👩‍🎓 Usage
 
 ### For Mentees
