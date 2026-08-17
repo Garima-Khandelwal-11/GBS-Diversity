@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", "Georgia", serif;
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  /* Premium neutral + warm-wood palette */
+  --color-cream-50: #fdfbf7;
+  --color-cream-100: #f8f3ea;
+  --color-cream-200: #efe6d6;
+
+  --color-stone-100: #f1efec;
+  --color-stone-200: #e4e0d9;
+  --color-stone-300: #cfc9bd;
+  --color-stone-400: #a89f8f;
+  --color-stone-500: #7d7364;
+  --color-stone-600: #5b5346;
+
+  --color-walnut-50: #f6f1ec;
+  --color-walnut-100: #e7d9cb;
+  --color-walnut-400: #8a6248;
+  --color-walnut-500: #6b4a34;
+  --color-walnut-600: #543a29;
+  --color-walnut-700: #3c2a1f;
+  --color-walnut-800: #2b1e16;
+  --color-walnut-900: #1c140e;
+
+  --color-brass-300: #e3c98f;
+  --color-brass-400: #cba05a;
+  --color-brass-500: #b3854a;
+  --color-brass-600: #93693a;
+
+  --color-ink: #221a14;
+
+  --color-whatsapp: #25d366;
+  --color-whatsapp-dark: #1fb257;
+
+  --shadow-card: 0 1px 2px rgba(28, 20, 14, 0.06), 0 8px 24px -8px rgba(28, 20, 14, 0.18);
+  --shadow-card-hover: 0 4px 8px rgba(28, 20, 14, 0.08), 0 16px 32px -12px rgba(28, 20, 14, 0.24);
+  --shadow-nav: 0 -2px 16px rgba(28, 20, 14, 0.08);
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  background: var(--color-cream-50);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overscroll-behavior-y: none;
+}
+
+#root {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+
+::selection {
+  background: var(--color-brass-300);
+  color: var(--color-walnut-800);
+}
+
+/* Hide scrollbars for horizontal snap rails while keeping them scrollable */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.45s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
