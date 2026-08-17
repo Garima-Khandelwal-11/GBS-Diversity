@@ -1,0 +1,16 @@
+{
+  "name": "expense-sync-webhook-service",
+  "version": "1.0.0",
+  "description": "Real-time webhook integration that syncs expense events to a downstream ERP, with idempotency, retry/backoff, and a dead-letter queue.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "mock-erp": "node mock-erp/server.js",
+    "test": "node --test"
+  },
+  "author": "Garima Khandelwal",
+  "license": "MIT"
+}

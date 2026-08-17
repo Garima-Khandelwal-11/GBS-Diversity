@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotel_bookings>
+  <booking>
+    <id>HT-2001</id>
+    <trip_id>TRIP-01</trip_id>
+    <employee_id>E100</employee_id>
+    <hotel_name>Taj Lands End</hotel_name>
+    <check_in>2026-07-02</check_in>
+    <check_out>2026-07-04</check_out>
+    <rate>7600.00</rate>
+    <currency>INR</currency>
+  </booking>
+  <booking>
+    <id>HT-2002</id>
+    <trip_id>TRIP-03</trip_id>
+    <employee_id>E104</employee_id>
+    <hotel_name>Frankfurt Airport Hotel</hotel_name>
+    <check_in>2026-07-08</check_in>
+    <check_out>2026-07-09</check_out>
+    <rate>145.00</rate>
+    <currency>EUR</currency>
+  </booking>
+</hotel_bookings>

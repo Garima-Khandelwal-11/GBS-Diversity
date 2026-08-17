@@ -4,51 +4,57 @@ Prepared for a Navan application (referred by a team member on Navan's travel ma
 
 ## Positioning
 
-I build the layer where systems actually talk to each other — REST APIs, auth flows, third-party services, and the data pipelines that keep them in sync. The sections below draw on a full-stack platform I helped ship end-to-end (this repository), framed around the integration work inside it.
+I build the layer where systems actually talk to each other — REST APIs, webhooks, and the data pipelines that keep them in sync. Both projects below were built specifically for this application: one models the batch/reconciliation side of travel & expense data, the other the real-time webhook-sync side — the two patterns a Data Integration Engineer on a travel & expense platform works in day to day.
 
 ## Skills
 
 **Integration & APIs**
-REST API design, OAuth 2.0, JWT auth flows, webhooks, third-party API integration, request/response validation, error handling & retries
+REST API design, webhooks, idempotency, retry/backoff strategy, third-party API integration, request/response validation, error handling
 
 **Data Pipelines**
-Feature encoding, schema mapping, data validation, cross-service aggregation, batch & real-time processing concepts
+ETL (extract/validate/transform/load), schema mapping across systems, currency/unit normalization, data reconciliation, dead-letter handling, batch & real-time processing
 
 **Backend & Data Stores**
-Node.js, Express, Python/Flask, MongoDB, Mongoose, SQL fundamentals
+Python, Node.js, SQLite/SQL, file-backed and in-memory data stores, service-oriented architecture (decoupled microservices)
 
 **Languages**
-JavaScript (ES6+), Python, SQL, JSON
+Python, JavaScript (ES6+), SQL, JSON, XML
 
 **Tooling & Practice**
-Git/GitHub, Postman, environment-based config, npm/Vite, debugging distributed services
+Git/GitHub, automated testing (unittest, Node test runner), CLI tooling, environment-based config, technical documentation
 
 **Collaboration**
-Cross-functional teams, translating requirements into technical specs, technical documentation, hackathon delivery
+Translating business rules into validation/reconciliation logic, hackathon delivery, cross-functional teamwork
 
 ## Projects
 
-### MentHer — Mentorship Matching Platform
-*Standard Chartered Diversity Hackathon 2025 · Full-stack / integration engineer*
+### Travel & Expense Data Integration Pipeline
+*Personal project, built for this application · Python*
 
-- Built the Express.js REST API layer (15+ endpoints) integrating five MongoDB collections — users, mentees, mentors, matches, courses — through Mongoose, covering auth, profile CRUD, and matching workflows.
-- Connected the Node backend to a standalone Python/Flask matching microservice over HTTP, passing mentee/mentor JSON payloads and consuming ranked-match responses in real time.
-- Combined Google OAuth 2.0 with JWT access, refresh, and reset tokens for authentication, including dedicated token-verification endpoints consumed by the frontend.
-- Integrated the SendGrid transactional email API to notify mentors and mentees on a successful match, handling API-key configuration and delivery failures.
-- Wired the React/Redux frontend to all of the above through Axios, and used amCharts to visualize match scores and mentorship progress from the integrated data.
+A batch pipeline that ingests flight bookings (JSON), hotel bookings (XML), and corporate card transactions (CSV) — three systems that never agree on a schema — normalizes them into one warehouse table, and reconciles bookings against card charges to flag what doesn't match.
 
-**Stack:** Node.js, Express, MongoDB, React, Redux Toolkit, SendGrid, OAuth 2.0/JWT
+- Built source-specific extractors for JSON, XML (`xml.etree`), and CSV, each wrapped in a retry-with-exponential-backoff decorator so a transient read failure doesn't kill the run.
+- Designed a validation gate that checks required fields, numeric/positive amounts, known currencies, and ISO dates on the *raw* record — bad rows are logged and dropped, never crash the batch.
+- Normalized all three schemas into one unified transaction record with currency conversion to USD, then loaded it into SQLite with an idempotent upsert (`INSERT ... ON CONFLICT`) keyed on `(source, record_id)` — safe to re-run.
+- Wrote a reconciliation stage that matches card charges to bookings by trip, category, and amount, flagging `CARD_WITHOUT_BOOKING` and `BOOKING_WITHOUT_CHARGE` in both directions.
+- 17 unit tests (stdlib `unittest`, zero dependencies) covering currency conversion, per-source normalization, the validation gate, reconciliation matching, and the retry decorator.
 
-### Mentor–Mentee Matching Microservice
-*Companion service to MentHer · Python/Flask*
+**Stack:** Python (stdlib only — `json`, `csv`, `xml.etree`, `sqlite3`) · **Repo:** [`travel-expense-etl-pipeline/`](https://github.com/Garima-Khandelwal-11/GBS-Diversity/tree/claude/navan-labs-portfolio-gkw2fn/travel-expense-etl-pipeline)
 
-- Designed a standalone Flask microservice exposing a `/match` endpoint that ingests mentee and mentor profile data as JSON.
-- Built a feature-encoding pipeline that turns career goals, skills, and interests into weighted vectors (5/3/2), filtering to attributes shared across the population before encoding.
-- Computed pairwise cosine similarity across mentee and mentor vectors with scikit-learn/NumPy and returned the top 5 ranked matches per mentee.
-- Kept the matching logic decoupled from the main API so it could be deployed, scaled, and iterated on independently — a small service-oriented integration pattern end to end.
+### Expense-to-ERP Webhook Sync Service
+*Personal project, built for this application · Node.js*
 
-**Stack:** Python, Flask, scikit-learn, NumPy, REST
+A real-time integration service: receives an "expense approved" webhook, maps it onto a downstream ERP's journal-entry schema, and gets it there reliably even when the ERP is flaky or rejects the payload outright.
+
+- Built a schema-validation layer for the inbound webhook contract, deliberately separate from downstream business rules (an unsupported currency is a *valid* event that the ERP rejects, not a malformed request).
+- Implemented a field-mapping/transform layer (amount → cents, category → GL code via a lookup table) matching how travel/expense categories map to accounting codes.
+- Wrote retry-with-exponential-backoff that distinguishes transient failures (5xx, worth retrying) from permanent ones (4xx, straight to dead-letter) — the same convention most real integration targets use.
+- Built a file-backed idempotency store so a redelivered webhook (the sender times out and retries) never double-posts, plus a dead-letter queue with a replay endpoint for anything that couldn't be synced.
+- Shipped a mock ERP server that randomly returns `503`s at a configurable rate and always rejects one currency with `422`, so both failure paths are exercised without a real ERP account.
+- 19 tests via Node's built-in test runner, including a full end-to-end suite that spins up the sync service and the mock ERP on ephemeral ports and drives real HTTP requests through synced / duplicate / dead-lettered / replay.
+
+**Stack:** Node.js (core `http`, no framework), built-in `node:test` · **Repo:** [`expense-sync-webhook-service/`](https://github.com/Garima-Khandelwal-11/GBS-Diversity/tree/claude/navan-labs-portfolio-gkw2fn/expense-sync-webhook-service)
 
 ---
 
-*Draft — swap in any additional projects, and adjust the positioning line once you know which team you're applying to.*
+*Both projects are runnable locally with zero external dependencies — see each project's README for exact commands, sample output, and a "talking points for the interview" section covering the design decisions behind them.*

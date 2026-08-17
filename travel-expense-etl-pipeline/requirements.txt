@@ -1,0 +1,4 @@
+# No third-party dependencies. Extraction, transformation, and the
+# warehouse load all use Python's standard library (json, csv,
+# xml.etree.ElementTree, sqlite3) so the pipeline runs anywhere Python 3
+# runs, with nothing to install.
