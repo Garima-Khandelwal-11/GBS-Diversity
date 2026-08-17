@@ -57,4 +57,38 @@ A real-time integration service: receives an "expense approved" webhook, maps it
 
 ---
 
+## Resume-ready format (paste directly)
+
+```
+Travel & Expense Data Integration Pipeline                              GitHub
+• Tech Stack: Python, SQLite, JSON, XML, CSV, unittest
+• Built a batch ETL pipeline that extracts flight (JSON), hotel (XML), and corporate-card (CSV)
+  feeds, validates and normalizes them into one schema, and loads them into SQLite via
+  idempotent upserts.
+• Implemented a reconciliation engine that cross-matches card charges against bookings and a
+  retry-with-backoff layer on extraction; covered by 17 unit tests.
+
+Expense-to-ERP Webhook Sync Service                                     GitHub
+• Tech Stack: Node.js, REST, Webhooks, JSON
+• Built a real-time webhook service that syncs expense-approval events to a downstream ERP,
+  mapping fields to GL codes and enforcing idempotency to prevent duplicate postings.
+• Implemented retry-with-exponential-backoff distinguishing transient vs. permanent failures,
+  plus a dead-letter queue with replay; validated with 19 tests including full HTTP integration.
+```
+
+```
+Technical Skills
+• Languages: Python, JavaScript, SQL, C++, Kotlin
+• Backend & APIs: Flask, REST, Webhooks, Ktor, JWT, Retrofit
+• Integration Patterns: ETL, Idempotency, Retry/Backoff, Schema Mapping, Reconciliation, Dead-Letter Queues
+• Databases & Cloud: PostgreSQL, SQLite, MongoDB, AWS, Nginx, Gunicorn
+• Concurrency: Coroutines, Kotlin Flow
+• Core CS: DSA, OOP, Operating Systems, DBMS, Computer Networks
+• Tools: Linux, Git, Postman, VS Code, MobaXterm
+```
+
+Trimmed from the full master skill list to what's relevant to this specific role (dropped Tizen OS, Firebase, Room, ML Kit, llama.cpp, embeddings, Jetpack Compose/MVVM/KMP, Vercel, MCP — keep those on a general-purpose resume).
+
+---
+
 *Both projects are runnable locally with zero external dependencies — see each project's README for exact commands, sample output, and a "talking points for the interview" section covering the design decisions behind them.*
